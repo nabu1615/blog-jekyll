@@ -4,7 +4,7 @@ email: javier1615@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam voluptates, nemo minus facere porro veritatis placeat vero saepe minima sunt sint reprehenderit enim sed, voluptate sapiente sequi. Harum, earum, maxime?
 baseurl: "/blog-jekyll/" # the subpath of your site, e.g. /blog/
-url: "http://nabu1615.github.io/" # the base hostname & protocol for your site
+url: "http://nabu1615.github.io" # the base hostname & protocol for your site
 twitter_username: nabu1615
 github_username:  nabu1615
 
