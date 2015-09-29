@@ -4,10 +4,10 @@
     <title>Readers</title>
     <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam voluptates, nemo minus facere porro veritatis placeat vero saepe minima sunt sint reprehenderit enim sed, voluptate sapiente sequi. Harum, earum, maxime?
 </description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Sep 2015 20:59:09 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2015 20:59:09 -0500</lastBuildDate>
+    <link>http://nabu1615.github.io/blog-jekyll//blog-jekyll//</link>
+    <atom:link href="http://nabu1615.github.io/blog-jekyll//blog-jekyll//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Sep 2015 21:04:57 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2015 21:04:57 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 14 Sep 2015 14:00:00 -0500</pubDate>
-        <link>http://127.0.0.1:4000/jekyll/update/2015/09/14/who-are-andres-vargasl.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/jekyll/update/2015/09/14/who-are-andres-vargasl.html</guid>
+        <link>http://nabu1615.github.io/blog-jekyll//blog-jekyll//jekyll/update/2015/09/14/who-are-andres-vargasl.html</link>
+        <guid isPermaLink="true">http://nabu1615.github.io/blog-jekyll//blog-jekyll//jekyll/update/2015/09/14/who-are-andres-vargasl.html</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Sun, 13 Sep 2015 10:13:23 -0500</pubDate>
-        <link>http://127.0.0.1:4000/jekyll/update/2015/09/13/my-first-post.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/jekyll/update/2015/09/13/my-first-post.html</guid>
+        <link>http://nabu1615.github.io/blog-jekyll//blog-jekyll//jekyll/update/2015/09/13/my-first-post.html</link>
+        <guid isPermaLink="true">http://nabu1615.github.io/blog-jekyll//blog-jekyll//jekyll/update/2015/09/13/my-first-post.html</guid>
         
         
         <category>jekyll</category>
