@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+  <header class="box-post">
+    <h2 class="title">{{ page.title }}</h2>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <div class="image">
+    	<img class="post-image" src="{{ page.image }}" />
+    </div>
+  </header>
+
+  <article class="content">
+    {{ content }}
+  </article>
+

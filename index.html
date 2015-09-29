@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="col-xs-12 col-sm-8">
+    <h2 class="page-heading">Posts</h2>
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <div class="post-list__image">
+            <img src="{{ post.image }}">
+          </div>
+          <a class="post-description" href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-xs-12 col-sm-4">
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      <div class="box-tags">
+      <h2>Trending Topic</h2>
+        <ul>
+          <li><a href="">superheroes</a></li>
+          <li><a href="">videogames</a></li>
+          <li><a href="">humor</a></li>
+          <li><a href="">coding</a></li>
+        </ul>
+      </div>
+  </div>
+
+  
+
+</div>
